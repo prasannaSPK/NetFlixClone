@@ -1,6 +1,10 @@
 
 #The site is Accesible @  https://prasannaspk.github.io/NetFlixClone/
 
+
+Mock up Screen::
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/111f6853-5d14-430a-aef9-0bfa5e89bc3e" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
